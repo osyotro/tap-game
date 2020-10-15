@@ -1,0 +1,22 @@
+{
+  "name": "tap-game",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "serve public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mecurc/tap-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mecurc/tap-game/issues"
+  },
+  "homepage": "https://github.com/mecurc/tap-game#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
